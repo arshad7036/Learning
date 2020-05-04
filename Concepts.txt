@@ -1,0 +1,9 @@
+Hello
+Revised my yesterday concepts
+css selectors and styling 
+grid and flex layout in bootstrap
+
+today's concepts which i have covered 
+creating repository
+creating branch in github pull request merge 
+git hub fork
