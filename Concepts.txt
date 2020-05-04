@@ -7,3 +7,7 @@ today's concepts which i have covered
 creating repository
 creating branch in github pull request merge 
 git hub fork
+
+
+new branch
+
